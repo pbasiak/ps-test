@@ -8,4 +8,5 @@ Obraz | Oryginał | PS 10 | PS 30 | PS 60 | TinyPNG
 
 ### Legenda
 PS - oznacza Adobe Photoshop opcja Zapisz dla internetu (Save for web)
+
 10, 30, 60 - jakość obrazu w opcji Zapisz dla internetu (JPEG)
