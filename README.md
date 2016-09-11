@@ -1,5 +1,10 @@
 # ps-test
 
+## Optymalizacja obrazków
+Testowane narzędzia:
+* Adobe Photoshop (Zapisz dla internetu)
+* TinyPNG
+
 Obraz | Oryginał | PS 10 | PS 30 | PS 60 | TinyPNG
 ------------ | ------------- | ------------- | ------------- | ------------- | -------------
 1 | 2 309 KB | 396 KB | 594 KB | 1 871 KB | 514 KB
