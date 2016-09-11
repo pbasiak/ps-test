@@ -5,6 +5,8 @@ Testowane narzędzia:
 * Adobe Photoshop (Zapisz dla internetu - jakość JPEG 10, 30, 60)
 * TinyPNG
 
+[Obrazki tutaj](https://github.com/pbasiak/ps-test/tree/master/images)
+
 Obraz | Oryginał | PS 10 | PS 30 | PS 60 | TinyPNG
 ------------ | ------------- | ------------- | ------------- | ------------- | -------------
 1 | 2 309 KB | 396 KB **-82.85%** | 594 KB **-74.27.85%** | 1 871 KB **-18.97%** | 514 **-77.74%** KB
