@@ -2,7 +2,7 @@
 
 ## Optymalizacja obrazków
 Testowane narzędzia:
-* Adobe Photoshop (Zapisz dla internetu)
+* Adobe Photoshop (Zapisz dla internetu - jakość JPEG 10, 30, 60)
 * TinyPNG
 
 Obraz | Oryginał | PS 10 | PS 30 | PS 60 | TinyPNG
